@@ -64,36 +64,6 @@ Estou construindo minha base como desenvolvedor e uso este perfil como **diário
 
 ---
 
-## 📌 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/iantassiotto/Projeto_OrbitCore">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iantassiotto&repo=Projeto_OrbitCore&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto OrbitCore"/>
-</a>
-<a href="https://github.com/iantassiotto/SmartLamp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iantassiotto&repo=SmartLamp&theme=tokyonight&hide_border=true&border_radius=10" alt="SmartLamp"/>
-</a>
-
-</div>
-
----
-
-## 📊 Números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iantassiotto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&locale=pt-br" alt="estatísticas"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantassiotto&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&locale=pt-br" alt="linguagens"/>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=iantassiotto&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="gráfico de atividade"/>
-
-</div>
-
----
-
 ## 🤝 Contato
 
 <div align="center">
