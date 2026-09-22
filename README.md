@@ -17,7 +17,7 @@
 
 Estou construindo minha base como desenvolvedor e uso este perfil como **diário técnico**: cada repositório aqui é uma etapa do aprendizado, não uma vitrine de produto final.
 
-- 🎯 Foco atual: **JavaScript + Python + C++**
+- 🎯 Foco atual: **JavaScript, Python, C++**
 - 📚 Estudando: **React, Tailwindcss, Node.js, banco de dados**
 - 🧪 Objetivo do ano: **Ser campeão do FIAP NEXT 2026**
 - 💬 Falo sobre: Código, automação e produtividade
