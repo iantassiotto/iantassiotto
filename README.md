@@ -17,10 +17,10 @@
 
 Estou construindo minha base como desenvolvedor e uso este perfil como **diário técnico**: cada repositório aqui é uma etapa do aprendizado, não uma vitrine de produto final.
 
-- 🎯 Foco atual: **JavaScript + React**
-- 📚 Estudando: **C#, Tailwind CSS, Node.js, banco de dados**
-- 🧪 Objetivo do ano: **ser campeão do FIAP NEXT**
-- 💬 Falo sobre: código, automação e produtividade
+- 🎯 Foco atual: **JavaScript + Python**
+- 📚 Estudando: **C++, Tailwindcss, Node.js, banco de dados**
+- 🧪 Objetivo do ano: **Ser campeão do FIAP NEXT 2026**
+- 💬 Falo sobre: Código, automação e produtividade
 - 📍 Brasil
 
 > Todo projeto aqui tem README explicando **o problema, a solução e o que aprendi**.
@@ -58,9 +58,9 @@ Estou construindo minha base como desenvolvedor e uso este perfil como **diário
 |-------|------|--------|
 | 01 | Lógica de programação | ✅ Concluído |
 | 02 | HTML + CSS | ✅ Concluído |
-| 03 | JavaScript moderno | 🔄 Em andamento |
-| 04 | React | 🔜 Próximo |
-| 05 | Back-end + banco de dados | 🔜 Planejado |
+| 03 | JavaScript moderno | ✅ Concluído |
+| 04 | React + Tailwindcss | ✅ Concluído |
+| 05 | Back-end + banco de dados | 🔄 Em andamento |
 
 ---
 
