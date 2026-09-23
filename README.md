@@ -69,7 +69,7 @@ Estou construindo minha base como desenvolvedor e uso este perfil como **diário
 
 ### 🛰️ [Projeto OrbitCore](https://github.com/iantassiotto/Projeto_OrbitCore)
 
-Descreva em uma linha o problema que ele resolve.
+Sonda autônoma movida a vela solar que navega até o sistema TRAPPIST-1, a 40 anos-luz da Terra, identifica os 7 planetas por RFID e avalia a habitabilidade de cada um (temperatura, gravidade, atmosfera, ESI). PoC de missão espacial com hardware acessível e dados reais da NASA e do James Webb.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -77,7 +77,7 @@ Descreva em uma linha o problema que ele resolve.
 
 ### 💡 [SmartLamp](https://github.com/iantassiotto/SmartLamp)
 
-Descreva em uma linha o problema que ele resolve.
+ESP32 com sensor LDR enviando luminosidade para a plataforma FIWARE a cada dois segundos, e comandos HTTP no Orion Context Broker acendendo o LED de volta. Fluxo bidirecional edge–cloud no padrão NGSI v2.
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
