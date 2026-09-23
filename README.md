@@ -58,9 +58,50 @@ Estou construindo minha base como desenvolvedor e uso este perfil como **diário
 |-------|------|--------|
 | 01 | Lógica de programação | ✅ Concluído |
 | 02 | HTML + CSS | ✅ Concluído |
-| 03 | JavaScript moderno | ✅ Concluído |
-| 04 | React + Tailwindcss | ✅ Concluído |
-| 05 | Back-end + banco de dados | 🔄 Em andamento |
+| 03 | C++ | ✅ Concluído |
+| 04 | JavaScript moderno | ✅ Concluído |
+| 05 | React + Tailwindcss | ✅ Concluído |
+| 06 | Back-end + banco de dados | 🔄 Em andamento |
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛰️ [Projeto OrbitCore](https://github.com/iantassiotto/Projeto_OrbitCore)
+
+Descreva em uma linha o problema que ele resolve.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 💡 [SmartLamp](https://github.com/iantassiotto/SmartLamp)
+
+Descreva em uma linha o problema que ele resolve.
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 Números
+
+<div align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iantassiotto&theme=tokyonight" alt="perfil"/>
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantassiotto&theme=tokyonight" alt="linguagens por repositorio"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iantassiotto&theme=tokyonight" alt="linguagens mais commitadas"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iantassiotto&theme=tokyonight" alt="estatisticas"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iantassiotto&theme=tokyonight&utcOffset=-3" alt="horarios produtivos"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=iantassiotto&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" alt="sequencia de commits"/>
+
+</div>
 
 ---
 
